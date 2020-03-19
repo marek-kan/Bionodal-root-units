@@ -1,4 +1,4 @@
-# Bionodal-root-unis
+# Bionodal root unis
 In this repository I compare different ANN models in terms of their performance, namely ReLU, ELU, Leaky ReLU and BRU. I use TensorFlow 2 to build and train models. I wrote an article about this repository, you can read it at 
 
 All of this is inspired by Deep learning improved by biological activation Functions (Bhumbra, 2018)
@@ -11,4 +11,4 @@ At the start of every notebook BRU functions are defined whith custom gradients.
  * BRU_regresion: looks at performance on Boston Housing dataset
  * BRU_ConV: looks at performance on CIFAR-10 dataset, CNN mimics ConvPool structure to simulate more complex deep learning model
  
-In notebooks are only technical comments, if you want to learn more about this topic please refer to my article or research paper by Bhumbra. 
+Notebooks only contain technical comments, if you want to learn more about this topic please refer to my article and research paper by Bhumbra. 
