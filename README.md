@@ -1,5 +1,5 @@
 # Bionodal root unis
-In this repository I compare different ANN models in terms of their performance, namely ReLU, ELU, Leaky ReLU and BRU. I use TensorFlow 2 to build and train models. I wrote an article about this repository, you can read it [here](https://github.com/user/repo/blob/branch/other_file.md).
+In this repository I compare different ANN models in terms of their performance, namely ReLU, ELU, Leaky ReLU and BRU. I use TensorFlow 2 to build and train models. I wrote an article about this repository, you can read it [here](https://www.linkedin.com/pulse/new-group-state-of-the-art-activation-functions-marek-kanc%25C3%25ADr/).
 
 All of this is inspired by Deep learning improved by biological activation Functions (Bhumbra, 2018)
 [https://www.researchgate.net/publication/324860573_Deep_learning_improved_by_biological_activation_functions]
